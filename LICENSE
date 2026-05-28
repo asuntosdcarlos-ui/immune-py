@@ -1,0 +1,57 @@
+Business Source License 1.1
+
+Licensor:             [Tu Nombre o Empresa]
+Licensed Work:        immune-py
+                      The Licensed Work is (c) 2025 [Tu Nombre o Empresa]
+Change Date:          2029-01-01
+Change License:       Apache License, Version 2.0
+
+-----------------------------------------------------------------------------
+
+TERMS
+
+The Licensor hereby grants you the right to copy, modify, create derivative
+works, redistribute, and make non-production use of the Licensed Work.
+
+The Licensor may make an Additional Use Grant, above, permitting limited
+production use.
+
+Effective on the Change Date, or the fourth anniversary of the first publicly
+available distribution of a specific version of the Licensed Work under this
+License, whichever comes first, the Licensor hereby grants you rights under
+the terms of the Change License, and the rights granted in the paragraph
+above terminate.
+
+-----------------------------------------------------------------------------
+
+ADDITIONAL USE GRANT
+
+You may make production use of the Licensed Work, provided such use does not
+include offering the Licensed Work to third parties on a hosted or embedded
+basis in order to compete with [Tu Nombre o Empresa]'s paid version of the
+Licensed Work.
+
+Free production use is permitted if ALL of the following conditions are met:
+
+  1. Your organization has fewer than 10 employees, OR
+  2. Your organization's annual revenue is less than USD $100,000, OR
+  3. You are using immune-py for non-commercial, educational, or research
+     purposes only.
+
+If none of the above conditions apply, you must obtain a commercial license
+from the Licensor.
+
+-----------------------------------------------------------------------------
+
+NOTICE
+
+The Business Source License (this document, or the "License") is not an Open
+Source license. However, the Licensed Work will eventually be made available
+under an Open Source License, as stated in this License.
+
+For more information on the use of the Business Source License, please visit:
+https://mariadb.com/bsl11/
+
+-----------------------------------------------------------------------------
+
+For commercial licensing inquiries, contact: [tu-email@ejemplo.com]
