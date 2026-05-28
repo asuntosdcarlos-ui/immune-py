@@ -8,7 +8,6 @@ version = "0.1.0"
 description = "Self-healing immune system for Python applications"
 readme = "README.md"
 license = { file = "LICENSE" }
-license-expression = "BSL-1.1"
 authors = [{ name = "immune-py contributors" }]
 keywords = ["security", "anomaly-detection", "self-healing", "monitoring", "production"]
 classifiers = [
